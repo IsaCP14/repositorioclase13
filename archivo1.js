@@ -1,1 +1,5 @@
-let hola = "hello"
+
+let saludo = "hello";
+
+
+module.exports = saludo;
